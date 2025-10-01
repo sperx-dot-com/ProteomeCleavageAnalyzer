@@ -44,8 +44,6 @@ pip install -r requirements.txt
 - Place proteome FASTA files in the `genomes` folder
 - Place GO annotation files in the `go_files` folder
 
-select
-
 ## Usage
 
 1. Run the application:
