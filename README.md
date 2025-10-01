@@ -7,12 +7,17 @@ A GUI tool for analyzing protein sequences in FASTA proteome files with integrat
 - **P1' Residue Filtering**: Filter hits based on specific P1' residues
 - **C-Terminus Analysis**: Find patterns at or near the C-terminus
 - **GO Annotation**: Integrate Gene Ontology annotations
-- **Essential Gene Marking**: Identify essential genes
+- **Advanced Filtering**: Filter results using complex GO term expressions
+- **Essential Gene Marking**: Identify essential genes (e.g. E.coli ecocyc DB)
 - **Structure Analysis**: Analyze protein structures including:
+  - Fetch AlphaFold2 predicted structure file (if available) 
   - Secondary structure information
   - Solvent Accessible Surface Area (SASA)
   - Residue proximity analysis
-- **Advanced Filtering**: Filter results using complex GO term expressions
+- **Export Structure to Pymol**
+  - Automatically create a Pymol seesion file (*.pse) with AlphaFold2 predicted structure
+  - Highlighted cleavage sequence location
+  - Create an example picture of the location of the sequence
 - **Data Export**: Export results to Excel for further analysis
 
 ## Installation
