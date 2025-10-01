@@ -58,7 +58,7 @@ python gui_with_structure.py
 
 ## Example Searches
 
-- **Caspase cleavage sites**: `D[EDST][^P][^P]`
+- **SARS CoV-2 Mpro strict cleavage sites**: `AVLQ[G,S,A]`
 - **Trypsin cleavage sites**: `[KR][^P]`
 - **C-terminal motifs**: Check "At C-Terminus" and enter pattern like `[DE]EL$`
 
