@@ -1,4 +1,4 @@
-# Proteome_Cleavage_Analyzer
+# Proteome Cleavage Analyzer
 A GUI tool for analyzing protein sequences in FASTA proteome files with integrated structure analysis and GO annotation capabilities.
 
 ## Features
